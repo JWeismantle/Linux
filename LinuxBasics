@@ -1,0 +1,13 @@
+The structure of linux commands
+
+username @ nameofcomputer : path user
+
+On your device there will not be spaces but i added them for more clarity.
+
+*Tips on paths*
+To break it down further you can think of paths like nesting dolls. 
+To get to a file on why ducks are cool, we may need to go to the documents directory.
+Or if you are a bird enthusiast perhaps there is an entire directory dedicated to it!
+
+on windows this may look like "C:\Users\ChaosQuery\Documents\whyducksarecool.txt"
+
